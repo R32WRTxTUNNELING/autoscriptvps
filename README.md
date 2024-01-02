@@ -17,40 +17,6 @@
 <p <p align="center"><img src="https://img.shields.io/badge/Service-Webmin-success.svg"> <img src="https://img.shields.io/badge/Service-Helium-success.svg">
 <p <p align="center"><img src="https://wangchujiang.com/sb/status/stable.svg">
   
-<h2 align="center"># Required VPS is still fresh / have never installed anything
-<br>
-- If you install the Script twice, you need to rebuild the VPS to factory settings, in the VPS provider panel<br>
-- DOMAIN Alone / DOMAIN Random<br>
-- DEBIAN 9/10<br>
-- Ubuntu 18/20 LTS<br>
-- CPU MIN 1 CORE<br>
-- RAM 1GB<br>
-- (Recommendation) Ubuntu 18 / 20 LTS (STABLE to use)
-<br>
-
-# Cloudflare setting :
-<br>
-- SSL/TLS : FULL<br>
-- SSL/TLS Recommender : OFF<br>
-- GRPC : ON<br>
-- WEBSOCKET : ON<br>
-- Always Use HTTPS : OFF<br>
-- UNDER ATTACK MODE : OFF<br>
-<br>
-
-### SUPPORT PORT
-#
-<br>
-- SSL/TLS : 443 / 8443<br>
-- SSHWS : 80 / 8880 / 8080 / 2082 / 2095 / 2096 / 2022 / 2092<br>
-<br>
-
-### IZIN INSTALL SCRIPT
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/R32WRT_STORE/)
-<br>
-https://t.me/R32WRT_STORE<br>
-<br>
-
 # UPDATE REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 # UPDATE REPO UBUNTU
@@ -59,18 +25,13 @@ https://t.me/R32WRT_STORE<br>
 ### SCRIPT INSTALL DIBAWAH INI.......!!!!!!!
 
 ### INSTALL
-```
-apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/R32WRTxTUNNELING/autoscriptvps/main/mainsc.sh && chmod +x mainsc.sh && ./mainsc.sh
-```
+
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q autoscript.r32wrt.cloud/mainsc.sh && chmod +x mainsc.sh && ./mainsc.sh</code></pre>
+
 
 ### `WARNING !`
-```
-Jangan main colong ya anak Babi
-```
 
-# Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/R32WRT_STORE/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/PatunganVpsR32Wrt/)
+Jangan main colong ya anak Babi
 
 # Belikan Saya Kopi
 
