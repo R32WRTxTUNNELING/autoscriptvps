@@ -33,4 +33,4 @@ Jangan main colong ya anak Babi
 
 <h2 align="left">Belikan Saya Kopi</h2>
 
-<h2 align="left">![Service Status](https://autoscript.r32wrt.cloud/banner/qris.jpg)</h2>
+<h2 align="left">![Service Status](https://raw.githubusercontent.com/R32WRTxTUNNELING/autoscriptvps/main//banner/qris.jpg)</h2>
