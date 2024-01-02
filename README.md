@@ -17,7 +17,7 @@
 <p <p align="center"><img src="https://img.shields.io/badge/Service-Webmin-success.svg"> <img src="https://img.shields.io/badge/Service-Helium-success.svg">
 <p <p align="center"><img src="https://wangchujiang.com/sb/status/stable.svg">
   
-# Required VPS is still fresh / have never installed anything
+<h2 align="center"># Required VPS is still fresh / have never installed anything
 <br>
 - If you install the Script twice, you need to rebuild the VPS to factory settings, in the VPS provider panel<br>
 - DOMAIN Alone / DOMAIN Random<br>
@@ -55,14 +55,14 @@ https://t.me/R32WRT_STORE<br>
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 # UPDATE REPO UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</code></pre>
-#
+
 ### SCRIPT INSTALL DIBAWAH INI.......!!!!!!!
-#
+
 ### INSTALL
 ```
 apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/R32WRTxTUNNELING/autoscriptvps/main/mainsc.sh && chmod +x mainsc.sh && ./mainsc.sh
 ```
-#
+
 ### `WARNING !`
 ```
 Jangan main colong ya anak Babi
@@ -71,8 +71,7 @@ Jangan main colong ya anak Babi
 # Telegram
 [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/R32WRT_STORE/)
 [![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/PatunganVpsR32Wrt/)
-#
+
 # Belikan Saya Kopi
-#
-![Service Status](https://raw.githubusercontent.com/R32WRTxTUNNELING/autoscriptvps/main/banner/qris.jpg)
-#
+
+![Service Status](https://raw.githubusercontent.com/R32WRTxTUNNELING/autoscriptvps/main/banner/qris.jpg)</h2>
