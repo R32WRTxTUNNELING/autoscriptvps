@@ -15,14 +15,14 @@
 <p <p align="center"><img src="https://img.shields.io/badge/Service-Webmin-success.svg"> <img src="https://img.shields.io/badge/Service-Helium-success.svg">
 <p <p align="center"><img src="https://wangchujiang.com/sb/status/stable.svg">
   
-# UPDATE REPO DEBIAN
+<h2 align="left">UPDATE REPO DEBIAN</h2>
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
-# UPDATE REPO UBUNTU
+UPDATE REPO UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</code></pre>
 
-### SCRIPT INSTALL DIBAWAH INI.......!!!!!!!
+<h2 align="left">SCRIPT INSTALL DIBAWAH INI.......!!!!!!!</h2>
 
-### INSTALL
+<h2 align="left">INSTALL</h2>
 
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q autoscript.r32wrt.cloud/mainsc.sh && chmod +x mainsc.sh && ./mainsc.sh</code></pre>
 
@@ -31,6 +31,6 @@
 
 Jangan main colong ya anak Babi
 
-# Belikan Saya Kopi
+<h2 align="left">Belikan Saya Kopi</h2>
 
-![Service Status](https://autoscript.r32wrt.cloud/banner/qris.jpg)</h2>
+<h2 align="left">![Service Status](https://autoscript.r32wrt.cloud/banner/qris.jpg)</h2>
