@@ -1,7 +1,3 @@
-# Memberikan Saya Kopi
-#
-![Service Status](https://raw.githubusercontent.com/R32WRTxTUNNELING/autoscriptvps/main/banner/qris.jpg)
-#
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
 </p>
@@ -75,3 +71,8 @@ Jangan main colong ya anak Babi
 # Telegram
 [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/R32WRT_STORE/)
 [![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/PatunganVpsR32Wrt/)
+#
+# Belikan Saya Kopi
+#
+![Service Status](https://raw.githubusercontent.com/R32WRTxTUNNELING/autoscriptvps/main/banner/qris.jpg)
+#
