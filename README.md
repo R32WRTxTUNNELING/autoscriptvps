@@ -74,4 +74,4 @@ Jangan main colong ya anak Babi
 
 # Belikan Saya Kopi
 
-![Service Status](autoscript.r32wrt.cloud/banner/qris.jpg)</h2>
+![Service Status](https://autoscript.r32wrt.cloud/banner/qris.jpg)</h2>
