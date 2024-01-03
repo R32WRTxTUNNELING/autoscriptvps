@@ -34,5 +34,5 @@ Jangan main colong ya anak Babi
 <h2 align="left">Belikan Saya Kopi</h2>
 
 <h2 align="left">Script ini membutuhkan izin dari admin</h2>
-<h2 align="left">Silahkan hubungi admin lewat telegram t.me/R32WRT_STORE</h2>
+<h2 align="left">Silahkan hubungi admin lewat telegram https://t.me/R32WRT_STORE</h2>
 
