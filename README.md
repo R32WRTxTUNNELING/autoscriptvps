@@ -1,38 +1,94 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
 </p>
-<h2 align="center"> SCRIPT R32WRTx TUNNELING</h2>
+<h2 align="center">꧁༒༺ 𝐑𝟑𝟐𝐖𝐑𝐓𝐱 𝐓𝐔𝐍𝐍𝐄𝐋𝐈𝐍𝐆 ༻༒꧂</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
 </p>
- 
+
+</p> 
 <h2 align="center"> Supported Linux Distribution</h2>
-<h2 align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png">
-<h2 align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
+<p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
+<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
+</p>
 
-<h2 align="center"><img src="https://img.shields.io/badge/Service-SSH_Over_Websocket-success.svg"> <img src="https://img.shields.io/badge/Service-SSH_UDP_Custom-success.svg"> <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel4-success.svg">  <img src="https://img.shields.io/badge/Service-Fail2Ban-brightgreen">  
-<h2 align="center"><img src="https://img.shields.io/badge/Service-XRAY_VLESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg"> <img src= "https://img.shields.io/badge/Service-Websocket-success.svg"> <img src= "https://img.shields.io/badge/Service-GRPC-success.svg"> <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
-<h2  align="center"><img src="https://img.shields.io/badge/Service-Webmin-success.svg"> <img src="https://img.shields.io/badge/Service-Helium-success.svg">
-<h2 align="center"><img src="https://wangchujiang.com/sb/status/stable.svg">
-  
-<h2 align="left">UPDATE REPO DEBIAN</h2>
-<pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
-UPDATE REPO UBUNTU
-<pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</code></pre>
+<p align="center"><img src="https://img.shields.io/badge/Service-SSH_Over_Websocket-success.svg"> <img src="https://img.shields.io/badge/Service-SSH_UDP_Custom-success.svg"> <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel4-success.svg">  <img src="https://img.shields.io/badge/Service-Fail2Ban-brightgreen">  
+<p align="center"><img src="https://img.shields.io/badge/Service-XRAY_VLESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg"> <img src= "https://img.shields.io/badge/Service-Websocket-success.svg"> <img src= "https://img.shields.io/badge/Service-GRPC-success.svg"> <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
+<p <p align="center"><img src="https://img.shields.io/badge/Service-Webmin-success.svg"> <img src="https://img.shields.io/badge/Service-Helium-success.svg">
+<p <p align="center"><img src="https://wangchujiang.com/sb/status/stable.svg">
 
-<h2 align="left">SCRIPT INSTALL DIBAWAH INI.......!!!!!!!</h2>
+## UPGRADE FOR DEBIAN
+Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
+```
+apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+```
 
-<h2 align="left">INSTALL</h2>
+##  UPGRADE FOR UBUNTU
+Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 18 atau 20
+```
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
+```
 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q autoscript.r32wrt.cloud/mainsc.sh && chmod +x mainsc.sh && ./mainsc.sh</code></pre>
+## INSTALL SCRIPT 
+Masukkan perintah dibawah untuk menginstall Autoscript Premium by :
+<h2 align="center">꧁༒༺ 𝐑𝟑𝟐𝐖𝐑𝐓𝐱 𝐓𝐔𝐍𝐍𝐄𝐋𝐈𝐍𝐆 ༻༒꧂</h2>
 
+```
+apt install -y && apt update -y && apt upgrade -y && wget -q autoscript.r32wrt.cloud/main.sh && chmod +x main.sh && ./main.sh
+```
 
-### `WARNING !`
+## UPDATE SCRIPT
+Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
+```
+wget -q autoscript.r32wrt.cloud/update.sh && chmod +x update.sh && ./update.sh
+```
 
-Jangan main colong ya anak Babi
+## TESTED ON OS
+- UBUNTU Version 18 Atau 20 (Recommended)
+- DEBIAN Version 09 Atau 10
 
-<h2 align="left">Belikan Saya Kopi</h2>
+## FITUR TAMBAHAN
+- Pemasangan yang dinamis
+- User Details Akun
+- Auto delete expired
+- Auto reboot vps server
 
-<h2 align="left">Script ini membutuhkan izin dari admin</h2>
-<h2 align="left">Silahkan hubungi admin lewat telegram https://t.me/R32WRT_STORE</h2>
+## PORT INFO
+```
+- TROJAN WS 443
+- TROJAN GRPC 443
+- SHADOWSOCKS WS 443
+- SHADOWSOCKS GRPC 443
+- VLESS WS 443
+- VLESS GRPC 443
+- VLESS NONTLS 80
+- VMESS WS 443
+- VMESS GRPC 443
+- VMESS NONTLS 80
+- SSH WS / TLS 443
+- SSH NON TLS 8880
+- OVPN SSL/TCP 1194
+- SLOWDNS 5300
+```
 
+## CLOUDFLARE SETTING
+```
+- SSL/TLS : FULL
+- SSL/TLS Recommender : OFF
+- GRPC : ON
+- WEBSOCKET : ON
+- Always Use HTTPS : OFF
+- UNDER ATTACK MODE : OFF
+```
+
+## `! WARNING !`
+Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor lewat TELEGRAM dibawah ke - Admin
+<h2 align="center">꧁༒༺ 𝐑𝟑𝟐𝐖𝐑𝐓𝐱 𝐓𝐔𝐍𝐍𝐄𝐋𝐈𝐍𝐆 ༻༒꧂</h2>
+
+## Telegram
+- [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/R32WRT_STORE/)
+- [![Telegram-grub](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/PatunganVpsR32Wrt/)
+
+## Belikan Saya Kopi Hitam & Rokok Sebatang
+##
+![Service Status](https://raw.githubusercontent.com/rwrtx/autoscpremi/main/1698617626558.jpg)
